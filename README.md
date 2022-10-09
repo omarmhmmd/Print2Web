@@ -5,7 +5,7 @@ Delete the contents of this page and add your own README description here accord
 -->
 # Print2Web
 
-### Info
+#### Info
 You’ve successfully utilized web-based tools (Google suite) to design a multi-page print format of a “user manual”. Throughout this process you had to design and create against digital/web constraints while also using these tools as a print tool, versus a digital one. 
 
 The designs that you produced with these apps are output as strict rules built into HTML, CSS, and some complex Javascript. This means that some of your decisions were pre-determined for you, versus the freedom enabled through “proper” design tools.
