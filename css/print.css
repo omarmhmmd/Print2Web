@@ -1,0 +1,25 @@
+@media print {
+  .container {
+    border: 16px solid white;
+    flex-direction: column;
+    align-items: center;
+    font-size: 48px;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .media:after {
+    content: 'Print me';
+  }
+}
+
+@media print {
+  .row1 {
+    display: none;
+  }
+  .canvas {
+    width: 80vw;
+    height: 100vh;
+  }
+}
+

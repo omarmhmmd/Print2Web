@@ -1,0 +1,41 @@
+.container {
+  box-sizing: border-box;
+  border: 16px solid white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  height: 100vh;
+  width: 100vw;
+}
+
+.one, .two, .three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 33.3%;
+  width: 100%;
+}
+
+.one {
+  background-color: lightskyblue;
+}
+
+.two {
+  background-color: lightgreen;
+  display: flex;
+  flex-direction: column;
+}
+
+.three {
+  background-color: lightcoral;
+}
+
+.media {
+  border: 1px solid black;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: white;
+}
